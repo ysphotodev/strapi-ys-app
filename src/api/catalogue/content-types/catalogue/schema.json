@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "catalogues",
+  "info": {
+    "singularName": "catalogue",
+    "pluralName": "catalogues",
+    "displayName": "catalogue"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    }
+  }
+}
